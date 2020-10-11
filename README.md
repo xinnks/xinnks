@@ -1,7 +1,7 @@
 # James Sinkala 👊
 
 - 🌍 My website - [jamesinkala.me](https://jamesinkala.me)
-- 🔭 I’m currently working on [eabmti.org](https://eabmti.org)
+- 🔭 I’m currently working on [EABMTI](#)
 - 🌱 I’m currently learning [ReactJs](https://reactjs.org)
 - 📝 I do some writting on [Dev.to](https://dev.to/xinnks)
 - 👯 I’m looking to collaborate on anything interesting

@@ -28,7 +28,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Vue</span><br><br><br>
+        <span>PHP</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
     </tr>

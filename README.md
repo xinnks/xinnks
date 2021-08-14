@@ -56,8 +56,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/heroku-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Vercel</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/now.svg">
+        <span>Vite</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vitejs.svg">
       </td>
       <td width="25%" align="center">
         <span>Firebase</span><br><br><br>

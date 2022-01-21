@@ -1,7 +1,7 @@
 # James Sinkala 👊
 
 - 🌍 My website - [jamesinkala.me](https://jamesinkala.me)
-- 🔭 I’m currently working on [ze-lyrics](https://ze-lyrics.com)
+- 🔭 I’m currently working on [my-daily-reads](https://my-daily-reads.herokuapp.com)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org)
 - 📝 I do some writting on [Dev.to](https://dev.to/xinnks)
 - 👯 I’m looking to collaborate on anything interesting

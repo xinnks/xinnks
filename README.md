@@ -1,6 +1,6 @@
 # James Sinkala 👊
 
-- 🌍 My website - [jamesinkala.me](https://jamesinkala.me)
+- 🌍 My website - [jamesinkala.com](https://jamesinkala.com)
 - 🔭 I’m currently working on [my-daily-reads](https://my-daily-reads.herokuapp.com)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org)
 - 📝 I do some writting on [Dev.to](https://dev.to/xinnks)

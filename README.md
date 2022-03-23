@@ -2,8 +2,8 @@
 
 - 🌍 My website - [jamesinkala.com](https://jamesinkala.com)
 - 🔭 I’m currently working on [my-daily-reads](https://my-daily-reads.herokuapp.com)
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org)
-- 📝 I do some writting on [Dev.to](https://dev.to/xinnks)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org) & [React](https://github.com/facebook/react).
+- 📝 I do some writting on [My Blog](https://jamesinkala.com/blog) & [Dev.to](https://dev.to/xinnks).
 - 👯 I’m looking to collaborate on anything interesting
 - 💬 Ask me about pretty much anything [but.. don't expect an answer to everything]
 - ⚡ Fun fact: I'm still learning lots of stuff

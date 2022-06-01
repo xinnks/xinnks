@@ -1,7 +1,10 @@
 # James Sinkala 👊
 
 - 🌍 My website - [jamesinkala.com](https://jamesinkala.com)
-- 🔭 I’m currently working on [my-daily-reads](https://my-daily-reads.herokuapp.com) & [vuenoob](https://github.com/vuenoob).
+- 🔭 I’m currently working on:
+  - [My Daily Reads](https://mdr.jamesinkala.com)
+  - [Vuenoob](https://vuenoob.com)
+  - [Reliable Link Shortener](https://rls.jamesinkala.com).
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org) & [React](https://github.com/facebook/react).
 - 📝 I do some writting on [My Blog](https://jamesinkala.com/blog) & [Dev.to](https://dev.to/xinnks).
 - 👯 I’m looking to collaborate on anything interesting

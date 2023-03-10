@@ -55,7 +55,7 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/xinnks/xns-audio-player"><b>🎵 xns-audio-player</b></a></td>
+	<td><a href="https://github.com/xinnks/xns-audio-player"><b>🎵 xns-audio-player</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/xinnks/xns-audio-player?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/xinnks/xns-audio-player?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/xinnks/xns-audio-player?style=flat-square"/></td>
@@ -63,7 +63,15 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/xinnks/xns-audio-player?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/xinnks/vue-cloudinary-uploader"><b>📤 vue-cloudinary-uploader</b></a></td>
+	<td><a href="https://github.com/xinnks/vue-cloudinary-uploader"><b>📬 turqw-newsletter</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/xinnks/turqw-newsletter?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/xinnks/turqw-newsletter?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/xinnks/turqw-newsletter?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xinnks/turqw-newsletter?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/xinnks/turqw-newsletter?label=typescript&style=flat-square"/></td>
+      </tr>
+      <tr>
+	<td><a href="https://github.com/xinnks/vue-cloudinary-uploader"><b>📤 vue-cloudinary-uploader</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/xinnks/vue-cloudinary-uploader?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/xinnks/vue-cloudinary-uploader?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/xinnks/vue-cloudinary-uploader?style=flat-square"/></td>
@@ -71,7 +79,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/xinnks/vue-cloudinary-uploader?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/xinnks/xns-audio-player-simple"><b>🎵 xns-audio-player-simple</b></a></td>
+	<td><a href="https://github.com/xinnks/xns-audio-player-simple"><b>🎵 xns-audio-player-simple</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/xinnks/xns-audio-player-simple?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/xinnks/xns-audio-player-simple?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/xinnks/xns-audio-player-simple?style=flat-square"/></td>
@@ -79,7 +87,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/xinnks/xns-audio-player-simple?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/xinnks/xns-seek-bar"><b>⏳ xns-seek-bar</b></a></td>
+	<td><a href="https://github.com/xinnks/xns-seek-bar"><b>⏳ xns-seek-bar</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/xinnks/xns-seek-bar?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/xinnks/xns-seek-bar?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/xinnks/xns-seek-bar?style=flat-square"/></td>
@@ -87,7 +95,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/xinnks/xns-seek-bar?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/xinnks/rls"><b>🔗 Reliable Link Shortener </b></a></td>
+	<td><a href="https://github.com/xinnks/rls"><b>🔗 Reliable Link Shortener </b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/xinnks/rls?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/xinnks/rls?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/xinnks/rls?style=flat-square"/></td>
@@ -95,7 +103,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/xinnks/rls?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/vuenoob/code-examples"><b>👶 vuenoob/code-examples </b></a></td>
+	<td><a href="https://github.com/vuenoob/code-examples"><b>👶 vuenoob/code-examples </b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/vuenoob/code-examples?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/vuenoob/code-examples?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/vuenoob/code-examples?style=flat-square"/></td>

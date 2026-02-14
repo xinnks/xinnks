@@ -3,7 +3,8 @@
 - 🌍 My website - [jamesinkala.com](https://jamesinkala.com)
 - 🔭 I’m currently working on:
   - [My Daily Reads](https://mdr.jamesinkala.com)
-  - [Vuenoob](https://vuenoob.com)
+  - [Vuenoob](https://vuenoob.jamesinkala.com)
+  - [Rustrookie](https://rustrookie.jamesinkala.com)
   - [Reliable Link Shortener](https://rls.jamesinkala.com).
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org).
 - 📝 I do some writting on [My Blog](https://jamesinkala.com/blog) & [Dev.to](https://dev.to/xinnks).
